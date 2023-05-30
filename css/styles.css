@@ -710,4 +710,5 @@ display: block;
 }
 
 .icon-footer {
+    fill: var(--cloud-color);
 }
